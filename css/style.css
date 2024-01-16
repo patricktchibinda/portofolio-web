@@ -536,7 +536,7 @@ box-shadow: none;
     text-transform: uppercase;
 }
 
-.texte::before{
+/*.texte::before{
     position: absolute;
     left: 10px;
     bottom: 0;
@@ -554,7 +554,7 @@ box-shadow: none;
     background-color: brown;
     height: 5px;
     border-radius: 6px;
-}
+}*/
 
 .nonnon{
     margin: 100px auto;
@@ -581,8 +581,8 @@ width: 28%;
     width: 100%;
     height: 100%;
     margin-bottom: 1px;
-    box-shadow: 0 0 0 rgb(250, 246, 246);
-}
+    box-shadow: 0 0 0 rgb(255, 251, 251);
+} 
 
 .nonnon li div img{
     height: 50%;
